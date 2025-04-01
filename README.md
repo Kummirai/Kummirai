@@ -17,7 +17,7 @@ A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript a
 
 ### [Project 2 Name]
 Modern landing page with CSS animations and mobile-first design  
-🔗 https://burgerhouse-beige.vercel.app/index.html | 📂 [Repository](#)
+🔗 https://burgerhouse-beige.vercel.app/index.html | 📂 https://github.com/Kummirai/burgerhouse
 
 ## 📈 GitHub Stats
 
