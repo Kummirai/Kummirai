@@ -13,11 +13,16 @@ I create responsive, performant web applications using modern technologies:
 
 ### South Africa Past Exams Project
 A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript and Bootstrap  
-🔗 https://sapastexams.vercel.app | 📂 https://github.com/Kummirai/sa_past_exams
+🔗 https://sapastexams.vercel.app | 
 
-### Burger House Project
-Modern landing page with CSS animations and mobile-first design  
-🔗 https://burgerhouse-beige.vercel.app/index.html | 📂 https://github.com/Kummirai/burgerhouse
+📂 https://github.com/Kummirai/sa_past_exams
+
+### 🍔 Burger House Project
+**A responsive React restaurant website** featuring an interactive menu (category filters, add-to-cart). 
+
+🔗 https://burgerhouse-beige.vercel.app/index.html 
+
+📂 https://github.com/Kummirai/burgerhouse
 
 ## 📈 GitHub Stats
 
