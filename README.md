@@ -21,15 +21,15 @@ Modern landing page with CSS animations and mobile-first design
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kummirai&show_icons=true&theme=default)](https://github.com/Kummirai)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=other&langs_count=4)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kummirai&layout=compact&hide=other&langs_count=4)](https://github.com/Kummirai)
 
 ## 📫 Get In Touch
 
 - 🌐 [Portfolio Website](#)
 - 💼 [LinkedIn](#)
-- ✉️ [Email Me](mailto:your@email.com)
+- ✉️ [Email Me](mailto:ajaxmilton@hotmail.com)
 - 🐦 [Twitter](#)
 
 "Building pixel-perfect experiences, one component at a time."
