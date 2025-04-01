@@ -32,8 +32,8 @@ A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript a
 
 ## 📫 Get In Touch
 
-- 🌐 [Portfolio Website](#)
-- 💼 [LinkedIn](#)
+- 🌐 [Portfolio Website])
+- 💼 [LinkedIn](https://linkedin.com/in/miltonkumirai)
 - ✉️ [Email Me](mailto:ajaxmilton@hotmail.com)
 - 🐦 [Twitter](#)
 
