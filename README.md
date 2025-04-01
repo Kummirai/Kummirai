@@ -13,7 +13,7 @@ I create responsive, performant web applications using modern technologies:
 
 ### South Africa Past Exams
 A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript and Bootstrap  
-🔗 https://sapastexams.vercel.app| 📂 [Repository](#)
+🔗 https://sapastexams.vercel.app | 📂 [Repository](#)
 
 ### [Project 2 Name]
 Modern landing page with CSS animations and mobile-first design  
