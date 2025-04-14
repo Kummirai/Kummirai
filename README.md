@@ -20,9 +20,9 @@ A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript a
 ### 🍔 Burger House Project
 **A responsive HTML, CSS and JS restaurant websit** featuring an interactive menu (category filters, add-to-cart). 
 
-- 🔗 [Live](https://burgerhouse-beige.vercel.app/index.html)
+- 🔗 [Live](https://kummirai.github.io/wdd131/techtrend/index.html)
 
-- 📂 [Code] https://github.com/Kummirai/burgerhouse
+- 📂 [Code] https://github.com/Kummirai/techtrend
 
 ## 📈 GitHub Stats
 
