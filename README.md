@@ -22,7 +22,7 @@ A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript a
 
 - 🔗 [Live](https://kummirai.github.io/wdd131/techtrend/index.html)
 
-- 📂 [Code] https://github.com/Kummirai/techtrend
+- 📂 [Code] https://github.com/Kummirai/wdd131/techtrend
 
 ## 📈 GitHub Stats
 
