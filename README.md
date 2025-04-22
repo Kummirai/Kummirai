@@ -17,7 +17,7 @@ A responsive South Africa Past  Exams Website built with HTML, CSS ,Javascript a
 
 - 📂 [Code] https://github.com/Kummirai/sa_past_exams
 
-### 🍔 Burger House Project
+### Ecomerce Website
 **A responsive HTML, CSS and JS restaurant websit** featuring an interactive menu (category filters, add-to-cart). 
 
 - 🔗 [Live](https://kummirai.github.io/wdd131/techtrend/index.html)
