@@ -1,7 +1,7 @@
 <div align="center">
   
 # ✨ Milton Kumirai 
-**Frontend Developer | ES6 | Javascript | Bootstrap**
+**Frontend Developer | HTML | CSS | ES6 | Python | Javascript | Bootstrap**
 
 [![Portfolio Shield](https://img.shields.io/badge/🚀_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn Shield](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltonkumirai)
