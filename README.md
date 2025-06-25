@@ -15,7 +15,7 @@ I create responsive, performant web applications using modern technologies:
 A responsive student resources Web application built with Flask ,Javascript and Bootstrap  
 - 🔗 [Live] https://mtplus.onrender.com
 
-- 📂 [Code] https://github.com/Kummirai/sa_past_exams
+- 📂 [Code] https://github.com/Kummirai/school
 
 ### Ecomerce Website
 **A responsive HTML, CSS and JS featuring tech products** and interactive menu (category filters, add-to-cart). 
