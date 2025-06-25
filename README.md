@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 Contribution Streak & Stats 
+## Contribution Streak & Stats 
 
 <div align="center">
 
