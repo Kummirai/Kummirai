@@ -57,7 +57,6 @@
 
 | Project | Description | Tech Stack | Live Demo | Source Code |
 |---------|-------------|------------|-----------|-------------|
-| **📚 MiltonTutor+** | Comprehensive exam preparation platform | Flask, JavaScript, Bootstrap | [🌍 Live](https://mtplus.onrender.com) | [💻 Code](https://github.com/Kummirai/school) |
 | **🛒 TechTrend** | Interactive e-commerce experience | HTML5, CSS3, Vanilla JS | [🚀 Demo](https://kummirai.github.io/wdd131/techtrend/index.html) | [🔍 Code](https://github.com/Kummirai/wdd131/techtrend) |
 | **🛒 TravelPlanner** | Searchf flights, hotels , crreate a budget and itenary | HTML5, CSS3, Vanilla JS | [🚀 Demo](https://travel-planner-wdd330.netlify.app/) | [🔍 Code](https://github.com/Kummirai/travel-planner-project) |
 
