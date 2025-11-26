@@ -59,7 +59,7 @@
 |---------|-------------|------------|-----------|-------------|
 | **🛒 TechTrend** | Interactive e-commerce experience | HTML5, CSS3, Vanilla JS | [🚀 Demo](https://kummirai.github.io/wdd131/techtrend/index.html) | [🔍 Code](https://github.com/Kummirai/wdd131/techtrend) |
 | **🛒 TravelPlanner** | Searchf flights, hotels , crreate a budget and itenary | HTML5, CSS3, Vanilla JS | [🚀 Demo](https://travel-planner-wdd330.netlify.app/) | [🔍 Code](https://github.com/Kummirai/travel-planner-project) |
-| **🛒 Admin Product Page** | Searchf flights, hotels , crreate a budget and itenary | React, Tailwind CSS, MongoDB, Express | [🚀 Demo](https://admin-product-page.onrender.com/) | [🔍 Code](https://github.com/Kummirai/mern_stack_crash_course) |
+| **🛒 Admin Product Page** | Create, read, update and delete products | React, Tailwind CSS, MongoDB, Express | [🚀 Demo](https://admin-product-page.onrender.com/) | [🔍 Code](https://github.com/Kummirai/mern_stack_crash_course) |
 
 </div>
 
