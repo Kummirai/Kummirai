@@ -1,7 +1,7 @@
 <div align="center">
   
 # ✨ Milton Kumirai 
-**Frontend Developer | HTML | CSS | ES6 | NextJS | Javascript | Tailwind CSS**
+**  WEB Developer | HTML | CSS | ES6 | NextJS | Javascript | Node | Expess | Tailwind CSS**
 
 [![Portfolio Shield](https://img.shields.io/badge/🚀_Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn Shield](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltonkumirai)
